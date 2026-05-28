@@ -1,15 +1,21 @@
-# Roberto Batista Dias - Python Developer & GameDev
+# Roberto Batista Dias — Python Developer
 
-Sou desenvolvedor Python com experiência em automação de processos e análise de dados, além de criador de assets 3D para jogos.  
-Automatizo relatórios e planilhas para reduzir tempo em tarefas repetitivas e produzo modelos 3D otimizados para engines como Unity e Unreal.
+Desenvolvo scripts e robôs em Python focados em sumir com tarefas manuais lentas, otimizar fluxos administrativos e tratar grandes volumes de dados. 
 
-## Áreas de atuação
-- Automação de planilhas e relatórios
-- Organização e análise de dados com Pandas
-- Criação de assets 3D para jogos
-- Desenvolvimento de ferramentas personalizadas
+Construo ferramentas eficientes que rodam por trás dos panos para gerar economia de tempo e zerar o erro humano em escritórios, contabilidades e e-commerces.
 
-## Portfólio
-- Scripts de automação de estoque
-- Relatórios inteligentes em CSV/Excel
-- Assets 3D publicados em marketplaces
+## 🛠️ Áreas de atuação
+
+* **Web Scraping Avançado:** Extração massiva de dados, relatórios e inteligência de mercado de qualquer site ou portal web.
+* **Automação de Processos:** Robôs de navegação para simulação humana, preenchimento automático de formulários e downloads periódicos.
+* **Tratamento Massivo de Dados:** Pipelines para limpeza, higienização, cruzamento de tabelas e exportação estruturada para planilhas inteligentes.
+* **Integração de Sistemas:** Conexão nativa via código com APIs de nuvem e ferramentas de comunicação.
+
+## 💼 Contrate meus serviços de forma segura
+
+[![Workana](https://www.workana.com/freelancer/d1a9a6b6fbb2c1a1f7e146a9c096205c)
+[![99Freelas](https://www.99freelas.com.br/user/roberto-batista-dias)
+
+---
+
+*Disponível para freelas e desenvolvimento de ferramentas personalizadas. Código limpo, modular e direto no alvo.*
