@@ -13,9 +13,6 @@ Construo ferramentas eficientes que rodam por trás dos panos para gerar economi
 
 ## 💼 Contrate meus serviços de forma segura
 
-[![Workana](https://www.workana.com/freelancer/d1a9a6b6fbb2c1a1f7e146a9c096205c)
-[![99Freelas](https://www.99freelas.com.br/user/roberto-batista-dias)
-
 ---
 
 *Disponível para freelas e desenvolvimento de ferramentas personalizadas. Código limpo, modular e direto no alvo.*
