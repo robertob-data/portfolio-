@@ -14,9 +14,18 @@ Construo ferramentas para eliminar tarefas repetitivas, coletar informações da
 - Git & GitHub
 
 ## 🚀 Projetos em Destaque
+DataFlow Bot
 
-### Book Scraper
-Coleta automatizada de dados com paginação dinâmica e exportação para JSON.
+Robô automatizado em Python para coleta, processamento e organização de dados da web.
+Realiza scraping de páginas dinâmicas, estrutura informações e exporta relatórios em CSV e Excel de forma automatizada.
+
+Coleta de dados com paginação automática
+Parsing e extração com BeautifulSoup
+Organização e limpeza de dados com Pandas
+Exportação estruturada para análise (CSV / Excel)
+Estrutura modular pronta para expansão
+
+Projeto focado em automação de coleta de dados e construção de pipelines simples de dados para uso real em freelas.
 
 *Novos projetos estão sendo adicionados continuamente ao portfólio.*
 
