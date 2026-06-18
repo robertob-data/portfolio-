@@ -25,7 +25,7 @@ Organização e limpeza de dados com Pandas
 Exportação estruturada para análise (CSV / Excel)
 Estrutura modular pronta para expansão
 
-Projeto focado em automação de coleta de dados e construção de pipelines simples de dados para uso real em freelas.
+Projeto de automação de dados inspirado em demandas reais do mercado freelancer.
 
 *Novos projetos estão sendo adicionados continuamente ao portfólio.*
 
