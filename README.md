@@ -21,7 +21,7 @@ Git & GitHub
 
 ## 🚀 Projetos em Destaque
 
-### DataFlow Bot
+### Product-Extractor
 
 Robô automatizado em Python para coleta, processamento e organização de dados da web.
 
