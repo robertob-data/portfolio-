@@ -1,47 +1,61 @@
-# Roberto Batista Dias | Python Developer
+# 👋 Olá, eu sou Roberto Batista
 
-Desenvolvedor Python focado em automação de processos, Web Scraping e tratamento de dados.
+## 🐍 Desenvolvedor Python
 
-Construo ferramentas para eliminar tarefas repetitivas, coletar informações da web e transformar dados brutos em informações estruturadas.
+Desenvolvedor Python focado em automação, web scraping e análise de dados.
+
+Tenho interesse em criar soluções que transformam tarefas manuais em processos automatizados, organizando dados e gerando informações úteis para tomada de decisão.
 
 ---
 
 ## 🛠️ Tecnologias
 
-```
-Python
-Requests
-BeautifulSoup
-Pandas
-JSON
-Git & GitHub
-```
+- Python
+- Requests
+- BeautifulSoup
+- Pandas
+- OpenPyXL
+- Matplotlib
+- JSON
+- APIs REST
+- Git e GitHub
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projeto em destaque
 
-### Product-Extractor
+### 🏠 Property Market Analyzer
 
-Robô automatizado em Python para coleta, processamento e organização de dados da web.
+Sistema desenvolvido em Python para coleta, tratamento e análise de dados imobiliários.
 
-Realiza scraping de páginas com paginação, estrutura informações e gera relatórios em CSV e Excel de forma automatizada.
+Principais recursos:
 
-**Funcionalidades:**
-- Coleta de dados com paginação automática  
-- Extração e parsing com BeautifulSoup  
-- Limpeza e organização com Pandas  
-- Exportação estruturada (CSV / Excel)  
-- Arquitetura modular para expansão  
+- Coleta automática de imóveis
+- Consumo de API
+- Organização e tratamento de dados
+- Análises estatísticas
+- Exportação de relatórios
+- Visualização de informações
 
-Projeto de automação de dados inspirado em cenários reais de demandas do mercado freelancer.
-
----
-
-📌 Novos projetos estão sendo adicionados continuamente ao portfólio.
+Tecnologias:
+Python | Pandas | Requests | Excel | JSON
 
 ---
 
-## 💼 Disponível para freelas
+## 📚 Atualmente estudando
 
-Automação de processos • Web Scraping • Tratamento e estruturação de dados
+- Automação avançada com Python
+- Selenium e Playwright
+- Arquitetura de projetos
+- Desenvolvimento de soluções reais
+
+---
+
+## 🎯 Objetivo
+
+Criar ferramentas eficientes utilizando Python para automatizar processos e resolver problemas reais.
+
+---
+
+📫 Linkedin:
+https://www.linkedin.com/in/roberto-batista-dias-583972415/
