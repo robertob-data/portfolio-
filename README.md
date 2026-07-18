@@ -2,9 +2,9 @@
 
 ## 🐍 Desenvolvedor Python
 
-Desenvolvedor Python focado em automação, web scraping e análise de dados.
+Ajudo empresas e profissionais a transformar tarefa manual e dado bagunçado em processo automático e informação pronta pra decisão.
 
-Tenho interesse em criar soluções que transformam tarefas manuais em processos automatizados, organizando dados e gerando informações úteis para tomada de decisão.
+Trabalho com automação de processos, web scraping e análise de dados — sempre com foco em resolver um problema real, não só em usar tecnologia por usar.
 
 ---
 
@@ -29,7 +29,6 @@ Tenho interesse em criar soluções que transformam tarefas manuais em processos
 Sistema desenvolvido em Python para coleta, tratamento e análise de dados imobiliários.
 
 Principais recursos:
-
 - Coleta automática de imóveis
 - Consumo de API
 - Organização e tratamento de dados
@@ -37,8 +36,7 @@ Principais recursos:
 - Exportação de relatórios
 - Visualização de informações
 
-Tecnologias:
-Python | Pandas | Requests | Excel | JSON
+Tecnologias: Python | Pandas | Requests | Excel | JSON
 
 ---
 
@@ -53,9 +51,9 @@ Python | Pandas | Requests | Excel | JSON
 
 ## 🎯 Objetivo
 
-Criar ferramentas eficientes utilizando Python para automatizar processos e resolver problemas reais.
+Ajudar negócios a ganhar tempo e clareza através de automação e dados bem organizados.
 
 ---
 
-📫 Linkedin:
-https://www.linkedin.com/in/roberto-batista-dias-583972415/
+📫 Contato:
+- LinkedIn: https://www.linkedin.com/in/roberto-batista-dias-583972415/
