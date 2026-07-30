@@ -1,59 +1,23 @@
-# 👋 Olá, eu sou Roberto Batista
+# Roberto Batista
 
-## 🐍 Desenvolvedor Python
+Construo sistemas e automações em Python pra negócios que hoje dependem de planilha, papel ou processo manual — scraping, tratamento de dados e sistemas com banco de dados, sempre pensando na dor real de quem vai usar.
 
-Ajudo empresas e profissionais a transformar tarefa manual e dado bagunçado em processo automático e informação pronta pra decisão.
+## Stack
 
-Trabalho com automação de processos, web scraping e análise de dados — sempre com foco em resolver um problema real, não só em usar tecnologia por usar.
+`Python` `Pandas` `Requests` `BeautifulSoup` `SQLite` `Streamlit` `Matplotlib` `OpenPyXL` `Git`
 
----
+## Projetos
 
-## 🛠️ Tecnologias
+| Projeto | O que resolve | Stack |
+|---|---|---|
+| [Property Market Analyzer](https://github.com/robertob-data/Property-Market-Analyzer) | Coleta e análise automática de dados imobiliários — do scraping ao relatório pronto pra decisão | Python, Pandas, Requests |
+| [Store Management System](https://github.com/robertob-data/store-management-system) | Substitui controle em papel: cadastro/edição de produtos, estoque, vendas com histórico e dashboard, rodando direto do navegador do celular | Python, SQLite, Streamlit |
+| [Booking Management System](https://github.com/robertob-data/booking-management-system) | Agendamento para negócios como clínicas e salões: controle de status, bloqueio automático de conflito de horário e dashboard por profissional | Python, SQLite, Streamlit |
 
-- Python
-- Requests
-- BeautifulSoup
-- Pandas
-- OpenPyXL
-- Matplotlib
-- JSON
-- APIs REST
-- Git e GitHub
+## Estudando agora
 
----
+Selenium e Playwright, e arquitetura de projetos
 
-## 🚀 Projeto em destaque
+## Contato
 
-### 🏠 Property Market Analyzer
-
-Sistema desenvolvido em Python para coleta, tratamento e análise de dados imobiliários.
-
-Principais recursos:
-- Coleta automática de imóveis
-- Consumo de API
-- Organização e tratamento de dados
-- Análises estatísticas
-- Exportação de relatórios
-- Visualização de informações
-
-Tecnologias: Python | Pandas | Requests | Excel | JSON
-
----
-
-## 📚 Atualmente estudando
-
-- Automação avançada com Python
-- Selenium e Playwright
-- Arquitetura de projetos
-- Desenvolvimento de soluções reais
-
----
-
-## 🎯 Objetivo
-
-Ajudar negócios a ganhar tempo e clareza através de automação e dados bem organizados.
-
----
-
-📫 Contato:
-- LinkedIn: https://www.linkedin.com/in/roberto-batista-dias-583972415/
+[LinkedIn](https://www.linkedin.com/in/roberto-batista-dias-583972415/)
