@@ -11,12 +11,12 @@ Construo sistemas e automações em Python pra negócios que hoje dependem de pl
 | Projeto | O que resolve | Stack |
 |---|---|---|
 | [Property Market Analyzer](https://github.com/robertob-data/Property-Market-Analyzer) | Coleta e análise automática de dados imobiliários — do scraping ao relatório pronto pra decisão | Python, Pandas, Requests |
-| [Store Management System](https://github.com/robertob-data/store-management-system) | Substitui controle em papel: cadastro/edição de produtos, estoque, vendas com histórico e dashboard, rodando direto do navegador do celular | Python, SQLite, Streamlit |
+| [Store Management System](https://github.com/robertob-data/store-management-system) | Substitui controle em papel: cadastro/edição de produtos, estoque, vendas com histórico e dashboard, rodando direto do navegador | Python, SQLite, Streamlit |
 | [Booking Management System](https://github.com/robertob-data/booking-management-system) | Agendamento para negócios como clínicas e salões: controle de status, bloqueio automático de conflito de horário e dashboard por profissional | Python, SQLite, Streamlit |
 
 ## Estudando agora
 
-Selenium e Playwright, e arquitetura de projetos
+SQL e FastAPI, com Selenium e Playwright logo em seguida
 
 ## Contato
 
