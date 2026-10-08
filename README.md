@@ -1,49 +1,49 @@
 # Roberto Batista
 
-Desenvolvo sistemas e automações em Python para transformar processos manuais e operações repetitivas em soluções mais rápidas, organizadas e confiáveis.
+I develop Python systems and automation solutions to transform manual and repetitive processes into faster, more organized, and reliable workflows.
 
-Trabalho com automação de processos, integração de APIs, tratamento de dados, scraping e sistemas com banco de dados, sempre partindo da necessidade real do negócio.
+I work with process automation, API integration, data processing, web scraping, and database-driven systems, always starting from real business needs.
 
-## Stack
+## Tech Stack
 
 `Python` `Pandas` `Requests` `BeautifulSoup` `SQLite` `Streamlit` `Matplotlib` `OpenPyXL` `Git`
 
-## Serviços
+## Services
 
-* Automação de processos
-* Integração com APIs
-* Scraping e coleta de dados
-* Tratamento e organização de dados
-* Sistemas sob medida
-* Sistemas com banco de dados
-* Dashboards e ferramentas internas
+* Process automation
+* API integration
+* Web scraping and data collection
+* Data processing and organization
+* Custom business systems
+* Database-driven applications
+* Dashboards and internal tools
 
-## Case real
+## Featured Case
 
 ### Mayara Modas
 
-Sistema de gestão comercial desenvolvido sob medida e atualmente utilizado em produção pelo cliente.
+A custom business management system developed for a real client and currently used in production.
 
-O sistema centraliza a operação da loja e automatiza tarefas relacionadas a:
+The system centralizes the store's operations and automates processes related to:
 
-* Cadastro e gerenciamento de produtos
-* Controle de estoque
-* Registro de vendas
-* Descontos por peça
-* Formas de pagamento
-* Devoluções, trocas e cancelamentos
-* Histórico de movimentações
-* Métricas e acompanhamento de resultados
-* Controle de estoque investido e a receber
-* Backup automático dos dados
+* Product management
+* Inventory control
+* Sales management
+* Per-item discounts
+* Payment methods
+* Returns, exchanges, and cancellations
+* Transaction history
+* Business metrics and performance tracking
+* Inventory investment and receivables
+* Automated data backups
 
-**Stack:** Python, Streamlit, SQLite, Google Drive API, Railway e GitHub.
+**Stack:** Python, Streamlit, SQLite, Google Drive API, Railway, and GitHub.
 
-## Atualmente
+## Currently
 
-Aprofundando conhecimentos em SQL e FastAPI, com Selenium e Playwright como próximas ferramentas para automação e integração de sistemas.
+Deepening my knowledge of SQL and FastAPI, with Selenium and Playwright as upcoming tools for automation and system integration.
 
-## Contato
+## Contact
 
 * [LinkedIn](https://www.linkedin.com/in/roberto-batista-dias-583972415/)
 * [Instagram](https://www.instagram.com/robertob.dev/)
@@ -52,4 +52,4 @@ Aprofundando conhecimentos em SQL e FastAPI, com Selenium e Playwright como pró
 
 ---
 
-Desenvolvimento focado em automação de processos, integração de sistemas, tratamento de dados e soluções sob medida.
+Focused on process automation, system integration, data processing, and custom software solutions.
